@@ -44,6 +44,10 @@
 |[Site-portfolio](https://github.com/Sati-prog/5_Portfolio_website_using_CSS_Grid)|💼|Layouted this site using the CSS Grid|HTML, SCSS, JavaScript, Gulp, Figma|
 |[HR PROACTIVE](http://hrproactive.tilda.ws/)|💰|Designed a website and made a corporate identity. Button effects implemented using JavaScript|Tilda, JavaScript, Photoshop, Illustrator|
 |[Childhood](https://github.com/Sati-prog/6_Childhood_website_Landing_the_layout_and_creating_themes_on_CMS_WordPress)|💼|Landing the layout and creating themes on CMS WordPress|CMS WordPress, MySQL, PHP, CSS, Hooks, reCAPTCHA, SEO optimization|
+|[FOOD](https://github.com/Sati-prog/10_Food)|💼|Using the ready-made layout of the educational project, I wrote a script, which I then converted into a modular structure|JavaScript, Fetch API, LocalStorage, ES6 Modules, Webpack|
+|[Windows](https://github.com/Sati-prog/11_Windows)|💼|Using the ready-made layout of the educational project, I created a modular script structure, and then compiled the production version of the site|JavaScript, ES6 Modules, Gulp, Webpack, States|
+|[Employees_template](https://github.com/Sati-prog/12_Employees_template)|💼|The application was created using Create React App and implemented from scratch using the listed technologies|React, Create React App, Elements and components, Component States, Events, Props, JSX, Strict Mode, Babel etc|
+|[Сhallenge - 50 projects 50 days](https://github.com/Sati-prog/13_challenge-50projects50days)|💼|Created components from training videos in English (slider, tabs, sound bar, forms, etc.)|HTML, CSS, JavaScript|
 
 ***
 
@@ -74,9 +78,9 @@
 <h4 align="center">Connect with me:</h4>
 
 <p align="center">
-<a href="https://linkedin.com/in/saltanat urkumbayeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saltanat urkumbayeva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/urkumbayeva-saltanat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saltanat urkumbayeva" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16493478/sati?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sati" height="30" width="40" /></a>
-<a href="https://instagram.com/sati_the_best_photography" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sati_the_best_photography" height="30" width="40" /></a>
+<a href="https://www.instagram.com/free_co1laboration/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="free_co1laboration" height="30" width="40" /></a>
 </p>
 
 ***
