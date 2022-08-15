@@ -8,7 +8,10 @@
 * I spend coding 40-60 hours a week
 * I learn frontend development 
 * I love Programming and very like growing experience in that
-* Fun fact: back in school, I thought that programmers are the people who repair the computers
+
+#### Fun fact
+
+* Back in school, I thought that programmers are the people who repair the computers
 
 #### Stack
 
@@ -37,16 +40,16 @@
 
 |Project Name|Type|Description|Technologies|
 |------------|--|-----|-----|
-|[Little Prince](https://github.com/Sati-prog/1_The_Little_Prince_book_is_made_in_HTML)|💼|Layouted this book as a homework assignment to reinforce basic HTML tags in practice|HTML, CSS|
-|[WordPress](https://github.com/Sati-prog/2_WordPress_website_in_pure_HTML_and_CSS)|💼|Learned and mastered the basics of HTML and CSS|HTML, CSS, Figma|
-|[Uber](https://github.com/Sati-prog/3_Uber_website_in_pure_HTML_SASS_and_JavaScript)|💼|Layouted this site using the SASS preprocessor|HTML, SASS, JavaScript, Gulp, Figma|
-|[Pulse](https://github.com/Sati-prog/4_Pulse_website_in_pure_HTML_SCSS_and_JavaScript_plus_PHP_mailer)|💼|Essential Technologies for a Web Developer and Best Practices|HTML, SCSS, PHP, JavaScript, Gulp, Figma|
-|[Site-portfolio](https://github.com/Sati-prog/5_Portfolio_website_using_CSS_Grid)|💼|Layouted this site using the CSS Grid|HTML, SCSS, JavaScript, Gulp, Figma|
+|[Little Prince](https://sati-prog.github.io/projects/prince/index.html)|💼|Layouted this book as a homework assignment to reinforce basic HTML tags in practice|HTML, CSS|
+|[WordPress](https://sati-prog.github.io/projects/wordpress/index.html)|💼|Learned and mastered the basics of HTML and CSS|HTML, CSS, Figma|
+|[Uber](https://sati-prog.github.io/projects/uber/index.html)|💼|Layouted this site using the SASS preprocessor|HTML, SASS, JavaScript, Gulp, Figma|
+|[Pulse](https://sati-prog.github.io/projects/pulse/index.html)|💼|Essential Technologies for a Web Developer and Best Practices|HTML, SCSS, PHP, JavaScript, Gulp, Figma|
+|[Site-portfolio](https://sati-prog.github.io/)|💼|Layouted this site using the CSS Grid|HTML, SCSS, JavaScript, Gulp, Figma|
 |[HR PROACTIVE](http://hrproactive.tilda.ws/)|💰|Designed a website and made a corporate identity. Button effects implemented using JavaScript|Tilda, JavaScript, Photoshop, Illustrator|
 |[Childhood](https://github.com/Sati-prog/6_Childhood_website_Landing_the_layout_and_creating_themes_on_CMS_WordPress)|💼|Landing the layout and creating themes on CMS WordPress|CMS WordPress, MySQL, PHP, CSS, Hooks, reCAPTCHA, SEO optimization|
 |[FOOD](https://github.com/Sati-prog/10_Food)|💼|Using the ready-made layout of the educational project, I wrote a script, which I then converted into a modular structure|JavaScript, Fetch API, LocalStorage, ES6 Modules, Webpack|
 |[Windows](https://github.com/Sati-prog/11_Windows)|💼|Using the ready-made layout of the educational project, I created a modular script structure, and then compiled the production version of the site|JavaScript, ES6 Modules, Gulp, Webpack, States|
-|[Employees_template](https://github.com/Sati-prog/12_Employees_template)|💼|The application was created using Create React App and implemented from scratch using the listed technologies|React, Create React App, Elements and components, Component States, Events, Props, JSX, Strict Mode, Babel etc|
+|[Employees template](https://nike-employees-template.herokuapp.com/)|💼|The application was created using Create React App and implemented from scratch using the listed technologies|React, Create React App, Elements and components, Component States, Events, Props, JSX, Strict Mode, Babel etc|
 |[Сhallenge - 50 projects 50 days](https://github.com/Sati-prog/13_challenge-50projects50days)|💼|Created components from training videos in English (slider, tabs, sound bar, forms, etc.)|HTML, CSS, JavaScript|
 
 ***
@@ -82,6 +85,8 @@
 <a href="https://stackoverflow.com/users/16493478/sati?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sati" height="30" width="40" /></a>
 <a href="https://www.instagram.com/free_co1laboration/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="free_co1laboration" height="30" width="40" /></a>
 </p>
+
+<p style="text-align: center;">See also my CV on <a href="https://hh.kz/resume/eec7693bff0af780650039ed1f654733457764">hh</a> and <a href="https://sati-prog.github.io/">portfolio</a></p>
 
 ***
 
