@@ -1,4 +1,4 @@
-# Hello, I am Sati! 👩🏻‍💻
+# Hi there! 👩🏻‍💻
 
 ***
 
@@ -32,14 +32,14 @@
 * Graphic editors Photoshop and Illustrator
 * Learn English and Spanish languages => A1
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sati-prog&show_icons=true&locale=en&layout=compact" alt="sati-prog" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sati-prog&show_icons=true&locale=en&layout=compact" alt="sati-prog"/></p>
 
 ***
 
 #### Projects
 
 |Project Name|Type|Description|Technologies|
-|------------|--|-----|-----|
+|-----|--|-----|-----|
 |[Little Prince](https://sati-prog.github.io/projects/prince/index.html)|💼|Layouted this book as a homework assignment to reinforce basic HTML tags in practice|HTML, CSS|
 |[WordPress](https://sati-prog.github.io/projects/wordpress/index.html)|💼|Learned and mastered the basics of HTML and CSS|HTML, CSS, Figma|
 |[Uber](https://sati-prog.github.io/projects/uber/index.html)|💼|Layouted this site using the SASS preprocessor|HTML, SASS, JavaScript, Gulp, Figma|
@@ -51,6 +51,7 @@
 |[Windows](https://github.com/Sati-prog/11_Windows)|💼|Using the ready-made layout of the educational project, I created a modular script structure, and then compiled the production version of the site|JavaScript, ES6 Modules, Gulp, Webpack, States|
 |[Employees template](https://nike-employees-template.herokuapp.com/)|💼|The application was created using Create React App and implemented from scratch using the listed technologies|React, Create React App, Elements and components, Component States, Events, Props, JSX, Strict Mode, Babel etc|
 |[Сhallenge - 50 projects 50 days](https://github.com/Sati-prog/13_challenge-50projects50days)|💼|Created components from training videos in English (slider, tabs, sound bar, forms, etc.)|HTML, CSS, JavaScript|
+|[Marvel](https://github.com/Sati-prog/14_Marvel)|💼|The information portal is implemented using the listed technologies|React, React 18+, React Router v6+, Component life cycle, Hooks, API, PropTypes etc|
 
 ***
 
@@ -74,7 +75,7 @@
 
 ***
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sati-prog" alt="sati-prog" /></a> </p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sati-prog" alt="sati-prog"/></a></p>
 
 ***
 
@@ -83,10 +84,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/urkumbayeva-saltanat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saltanat urkumbayeva" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16493478/sati?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sati" height="30" width="40" /></a>
-<a href="https://www.instagram.com/free_co1laboration/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="free_co1laboration" height="30" width="40" /></a>
+<a href="https://www.instagram.com/free_co1laboration/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="free_co1laboration" height="30" width="40"/></a>
 </p>
 
-<p style="text-align: center;">See also my CV on <a href="https://hh.kz/resume/eec7693bff0af780650039ed1f654733457764">hh</a> and <a href="https://sati-prog.github.io/">portfolio</a></p>
+<p align="center">See also my CV on <a href="https://hh.kz/resume/eec7693bff0af780650039ed1f654733457764">hh</a> and <a href="https://sati-prog.github.io/">portfolio</a></p>
 
 ***
 
