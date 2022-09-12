@@ -42,23 +42,25 @@
 |-----|--|-----|-----|
 |[Little Prince](https://sati-prog.github.io/projects/prince/index.html)|💼|Layouted this book as a homework assignment to reinforce basic HTML tags in practice|HTML, CSS|
 |[WordPress](https://sati-prog.github.io/projects/wordpress/index.html)|💼|Learned and mastered the basics of HTML and CSS|HTML, CSS, Figma|
-|[Uber](https://sati-prog.github.io/projects/uber/index.html)|💼|Layouted this site using the SASS preprocessor|HTML, SASS, JavaScript, Gulp, Figma|
-|[Pulse](https://sati-prog.github.io/projects/pulse/index.html)|💼|Essential Technologies for a Web Developer and Best Practices|HTML, SCSS, PHP, JavaScript, Gulp, Figma|
-|[Site-portfolio](https://sati-prog.github.io/)|💼|Layouted this site using the CSS Grid|HTML, SCSS, JavaScript, Gulp, Figma|
+|[Uber](https://sati-prog.github.io/projects/uber/index.html)|💼|Layouted this site using the SASS preprocessor|HTML, SASS, Bootstrap, JavaScript, Gulp, Figma|
+|[Pulse](https://sati-prog.github.io/projects/pulse/index.html)|💼|Essential Technologies for a Web Developer and Best Practices|HTML, SCSS, PHP miler, JavaScript, Gulp, Slick Slider, Figma|
+|[Portfolio](https://sati-prog.github.io/)|💼|Layouted this site using the CSS Grid|HTML, SCSS, PHP miler, JavaScript, Gulp, Figma|
 |[HR PROACTIVE](http://hrproactive.tilda.ws/)|💰|Designed a website and made a corporate identity. Button effects implemented using JavaScript|Tilda, JavaScript, Photoshop, Illustrator|
 |[Childhood](https://github.com/Sati-prog/6_Childhood_website_Landing_the_layout_and_creating_themes_on_CMS_WordPress)|💼|Landing the layout and creating themes on CMS WordPress|CMS WordPress, MySQL, PHP, CSS, Hooks, reCAPTCHA, SEO optimization|
 |[FOOD](https://github.com/Sati-prog/10_Food)|💼|Using the ready-made layout of the educational project, I wrote a script, which I then converted into a modular structure|JavaScript, Fetch API, LocalStorage, ES6 Modules, Webpack|
 |[Windows](https://github.com/Sati-prog/11_Windows)|💼|Using the ready-made layout of the educational project, I created a modular script structure, and then compiled the production version of the site|JavaScript, ES6 Modules, Gulp, Webpack, States|
+|[КАРТИНЫ.ART](https://github.com/Sati-prog/12_picture)|💼|Using the ready-made layout of the educational project, I created a modular script structure, and then compiled the production version of the site|JavaScript, ES6 Modules, Gulp, Mask|
 |[Employees template](https://nike-employees-template.herokuapp.com/)|💼|The application was created using Create React App and implemented from scratch using the listed technologies|React, Create React App, Elements and components, Component States, Events, Props, JSX, Strict Mode, Babel etc|
-|[Сhallenge - 50 projects 50 days](https://github.com/Sati-prog/13_challenge-50projects50days)|💼|Created components from training videos in English (slider, tabs, sound bar, forms, etc.)|HTML, CSS, JavaScript|
-|[Marvel](https://github.com/Sati-prog/14_Marvel)|💼|The information portal is implemented using the listed technologies|React, React 18+, React Router v6+, Component life cycle, Hooks, API, PropTypes etc|
+|[Сhallenge - 50 projects 50 days](https://github.com/Sati-prog/14_challenge-50projects50days)|💼|Created components from training videos in English (slider, tabs, sound bar, forms, etc.)|HTML, CSS, JavaScript, Bootstrap, API|
+|[Marvel](https://marvel-inf-portal.herokuapp.com/)|💼|The information portal is implemented using the listed technologies|React, React 18+, React Router v6+, Component life cycle, Hooks, API, PropTypes etc|
+<!-- |[Hero admin panel](https://github.com/Sati-prog/17_hero_admin_panel)|💼|The Admin Panel is implemented using the listed technologies|React, Redux, Hooks, API, etc| -->
 
 ***
 
 #### Education
 
 |Education Name|Date|Technologies|
-|------------|----|-----|
+|-----|----|-----|
 |[JavaScript: dive](https://drive.google.com/file/d/1_cTAwLJho82bd-QR2Ug-eEumKOp5HIRL/view)|November 2021|JavaScript|
 |[Coding Fundamentals](https://drive.google.com/file/d/1BhfUY0wCstxIiYnW3tanVxS0SM9I52_h/view)|November 2021|basics JavaScript|
 |[Coding Fundamentals II](https://drive.google.com/file/d/1Bg9DJwKNGOW8EfrEdvAlwVYZ8u5muSNK/view)|November 2021|basics JavaScript|
