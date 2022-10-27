@@ -21,7 +21,12 @@
 
 #### Carrier Line
 
-* I hope that soon I will find my first job! 😌
+|Work experience in IT|Period|
+|-----|-----|
+|Self-education / freelance|May 2021 - September 2022|
+|LLP «Crocos»|September 2022 - currently|
+
+<p align="left">More details in my <a href="https://hh.kz/resume/eec7693bff0af780650039ed1f654733457764">CV</a></p>
 
 #### Skills
 
