@@ -4,7 +4,7 @@
 
 #### Facts
 
-* I am 29, have been learning programming over 1 year
+* I am 30, have been learning programming over 2 years
 * I spend coding 40-60 hours a week
 * I learn frontend development 
 * I love Programming and very like growing experience in that
@@ -19,15 +19,6 @@
 * Frontend: React, Redux
 * Backend: PHP (WordPress)
 
-#### Carrier Line
-
-|Work experience in IT|Period|
-|-----|-----|
-|Self-education / freelance|May 2021 - September 2022|
-|LLP «Crocos»|September 2022 - currently|
-
-<p align="left">More details in my <a href="https://hh.kz/resume/eec7693bff0af780650039ed1f654733457764">CV</a></p>
-
 #### Skills
 
 * Layout HTML5, CSS3 (SASS, SCSS preprocessors)
@@ -37,7 +28,15 @@
 * Graphic editors Photoshop and Illustrator
 * Learn English and Spanish languages => A1
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sati-prog&show_icons=true&locale=en&layout=compact" alt="sati-prog"/></p>
+<br>
+<p>
+    <a href="https://github.com/sati-prog/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=sati-prog" />
+    </a>
+    <a href="https://github.com/sati-prog/convoychat">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sati-prog&layout=compact&langs_count=8&card_width=320" />
+    </a>
+</p>
 
 ***
 
@@ -52,12 +51,14 @@
 |[Portfolio](https://sati-prog.github.io/)|💼|Layouted this site using the CSS Grid|HTML, SCSS, PHP miler, JavaScript, Gulp, Figma|
 |[HR PROACTIVE](http://hrproactive.tilda.ws/)|💰|Designed a website and made a corporate identity. Button effects implemented using JavaScript|Tilda, JavaScript, Photoshop, Illustrator|
 |[Childhood](https://github.com/Sati-prog/6_Childhood_website_Landing_the_layout_and_creating_themes_on_CMS_WordPress)|💼|Landing the layout and creating themes on CMS WordPress|CMS WordPress, MySQL, PHP, CSS, Hooks, reCAPTCHA, SEO optimization|
-|[FOOD](https://github.com/Sati-prog/10_Food)|💼|Using the ready-made layout of the educational project, I wrote a script, which I then converted into a modular structure|JavaScript, Fetch API, LocalStorage, ES6 Modules, Webpack|
-|[Windows](https://github.com/Sati-prog/11_Windows)|💼|Using the ready-made layout of the educational project, I created a modular script structure, and then compiled the production version of the site|JavaScript, ES6 Modules, Gulp, Webpack, States|
+|[FOOD](https://sati-prog.github.io/projects/food/index.html)|💼|Using the ready-made layout of the educational project, I wrote a script, which I then converted into a modular structure|JavaScript, Fetch API, LocalStorage, ES6 Modules, Webpack|
+|[Windows](https://sati-prog.github.io/projects/window/index.html)|💼|Using the ready-made layout of the educational project, I created a modular script structure, and then compiled the production version of the site|JavaScript, ES6 Modules, Gulp, Webpack, States|
 |[КАРТИНЫ.ART](https://github.com/Sati-prog/12_picture)|💼|Using the ready-made layout of the educational project, I created a modular script structure, and then compiled the production version of the site|JavaScript, ES6 Modules, Gulp, Mask|
-|[Employees template](https://nike-employees-template.herokuapp.com/)|💼|The application was created using Create React App and implemented from scratch using the listed technologies|React, Create React App, Elements and components, Component States, Events, Props, JSX, Strict Mode, Babel etc|
-|[Сhallenge - 50 projects 50 days](https://github.com/Sati-prog/14_challenge-50projects50days)|💼|Created components from training videos in English (slider, tabs, sound bar, forms, etc.)|HTML, CSS, JavaScript, Bootstrap, API|
-|[Marvel](https://marvel-inf-portal.herokuapp.com/)|💼|The information portal is implemented using the listed technologies|React, React 18+, React Router v6+, Component life cycle, Hooks, API, PropTypes etc|
+|[Employees template](https://nike-employees-template.vercel.app/)|💼|The application was created using Create React App and implemented from scratch using the listed technologies|React, Create React App, Elements and components, Component States, Events, Props, JSX, Strict Mode, Babel etc|
+|[Сhallenge - 50 projects 50 days](https://sati-prog.github.io/projects/challenge/index.html)|💼|Created components from training videos in English (slider, tabs, sound bar, forms, etc.)|HTML, CSS, JavaScript, Bootstrap, API|
+|[Marvel](https://marvel-infoportal.vercel.app/)|💼|The information portal is implemented using the listed technologies|React, React 18+, React Router v6+, Component life cycle, Hooks, API, PropTypes etc|
+|[ICAO TRIP SYMPOSIUM](https://caa.gov.kz/symposium)|💰|This landing was created specifically for the forum. I did layout and posted it on CMS October. All further changes (including the code) are made by the website technical support manager|HTML, Twig, SCSS, JavaScript, Gulp, API (ymaps), CMS October|
+|[Legrand](https://sati-prog.github.io/projects/eshop/index.html)|💰|An online store for the sale of lighting equipment, which will later be hosted on the CMS WordPress|HTML, CSS, jQuery, Bootstrap, JSON, Owl-carousel, CMS WordPress, WooCommerce, PHP|
 <!-- |[Hero admin panel](https://github.com/Sati-prog/17_hero_admin_panel)|💼|The Admin Panel is implemented using the listed technologies|React, Redux, Hooks, API, etc| -->
 
 ***
@@ -74,6 +75,7 @@
 |[Websites from scratch](https://drive.google.com/file/d/1CEducYWB1xCtYY7LqnOdQUABLTjHhmz3/view)|December 2021|Tilda|
 |[WEB developer 2021](https://www.udemy.com/certificate/UC-0c45a342-e422-41ee-b1ff-3cbd80c3a804/)|March 2022|HTML5, CSS3 (SASS, LESS, SCSS preprocessors), JavaScript, Gulp, Figma etc|
 |[Landing the layout and creating themes on CMS WordPress](https://www.udemy.com/certificate/UC-4f276342-0a11-44be-affd-c660ec4c3f3e/)|Febrary 2022|CMS WordPress, MySQL, PHP, Hooks, SEO optimization etc|
+|[Complete React Course](https://www.udemy.com/certificate/UC-24b2d05f-d582-4a05-a3dc-1bfb60868481/)|March 2023|React features: Components, JSX, properties, state, useState, useEffect etc|
 
 #### Read for self-development
 * John Duckett - "HTML and CSS: Design and Build Websites",
@@ -82,7 +84,9 @@
 
 ***
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sati-prog" alt="sati-prog"/></a></p>
+<br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sati-prog&column=4&margin-w=10&margin-h=10)
 
 ***
 
